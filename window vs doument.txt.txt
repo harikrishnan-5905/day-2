@@ -1,0 +1,20 @@
+//window object
+// gloal Object as its called
+
+> alert
+> blur
+> caches
+> clearInterval
+> clearTimeout
+> close
+     closed
+
+// document
+// HTML as its called
+
+<head>_</head>
+
+    <body>_</body>
+
+    </HTML
+    
